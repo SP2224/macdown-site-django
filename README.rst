@@ -1,3 +1,4 @@
+#LOG = This is an amazing project
 ===================
 macdown-site
 ===================
